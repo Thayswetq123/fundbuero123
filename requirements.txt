@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-numpy
-pillow
-bcrypt
+streamlit==1.25.0
+tensorflow==2.15.0
+pillow==10.1.0
+numpy==1.26.0
+bcrypt==4.0.1
